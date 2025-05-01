@@ -40,4 +40,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ---
 
 For any questions or inquiries about licensing, please contact: big-damian
+
 [//]: # ( TODO: Add my email here)
