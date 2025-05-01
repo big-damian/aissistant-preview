@@ -1,5 +1,4 @@
-Copyright 2025 big-damian
-All rights reserved.
+Copyright 2025 big-damian. All rights reserved.
 
 This software and associated documentation files (the "Software") are the proprietary property of big-damian. No part of the Software may be copied, modified, distributed, sold, sublicensed, or used in any form or by any means without the prior written permission of the copyright holder.
 
